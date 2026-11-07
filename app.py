@@ -95,6 +95,16 @@ def home():
             nimeltä <strong>visits.db</strong>.</p>
             <p>Tietokannan avulla laskurin arvo säilyy
             myös palvelimen uudelleenkäynnistyksen jälkeen.</p>
+
+            <hr>
+            <h3>GitHub</h3>
+            <p><a href="https://github.com/Mohamed196-wq/viikko2-python-kavijalaskuri">
+            View my Python source code on GitHub</a></p>
+
+            <h3>Restart test</h3>
+            <p>The Python service was active after reconnecting to
+            the server. The SQLite database still contained
+            the previous visitor count of 3.</p>
         </div>
     </body>
     </html>
